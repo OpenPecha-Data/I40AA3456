@@ -1,0 +1,38 @@
+id: I40AA3456
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:45:41.833897'
+last_modified: '2022-06-19T09:45:41.833911'
+parser: null
+source_metadata:
+  title: Hagiography of mKhan chen Ngag dbang chos grags (1572–1641); Lamdre Lobshe,
+    vol. nga, title no. 4
+  author: དགོན་གསར་བ་ངག་དབང་བསོད་ནམས་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-03);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/570
+  bases:
+    dad0:
+      title: Hagiography of mKhan chen Ngag dbang chos grags (1572–1641); Lamdre Lobshe,
+        vol. nga, title no. 4
+      order: 1
+      base_file: dad0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
